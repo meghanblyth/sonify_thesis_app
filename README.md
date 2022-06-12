@@ -12,6 +12,8 @@ August 17th, 2021
 
 The following artifact is a prototype iOS mobile software application developed using Swift and Python programming languages to facilitate the representation of visible light and imagery in the audible range. 
 
+Please visit my [linkedIn](https://www.linkedin.com/in/megblyth/) profile or [youtube](https://www.youtube.com/channel/UC57V_O6tafB_O-_DRCWjNNQ) channel for a video tutorial of this application working. 
+
 This software has been programmed in two programming languages and programming environments as follows:
 
 # 1)	Image sonification process 
