@@ -1,0 +1,33 @@
+PODS:
+  - CircleProgressBar (0.32)
+  - ProgressHUD (2.51)
+  - Pulsator (0.6.0)
+
+DEPENDENCIES:
+  - CircleProgressBar (~> 0.32)
+  - ProgressHUD (from `https://github.com/relatedcode/ProgressHUD.git`, commit `83c3801e9aa69be157a47c40cdd8702bfaf29213`)
+  - Pulsator
+
+SPEC REPOS:
+  trunk:
+    - CircleProgressBar
+    - Pulsator
+
+EXTERNAL SOURCES:
+  ProgressHUD:
+    :commit: 83c3801e9aa69be157a47c40cdd8702bfaf29213
+    :git: https://github.com/relatedcode/ProgressHUD.git
+
+CHECKOUT OPTIONS:
+  ProgressHUD:
+    :commit: 83c3801e9aa69be157a47c40cdd8702bfaf29213
+    :git: https://github.com/relatedcode/ProgressHUD.git
+
+SPEC CHECKSUMS:
+  CircleProgressBar: 3920079be5224b62b3d9ed6eeb23ac01c835b681
+  ProgressHUD: 54b4c2fa202bf3da7dddc1c698ae4e6376333bd9
+  Pulsator: eb5a9f9be4bdcbd19903984c65deca6aabe50a17
+
+PODFILE CHECKSUM: 7392e849aa42f113ff91949c9d7db858cbee4167
+
+COCOAPODS: 1.9.3
