@@ -36,5 +36,5 @@ The supplementary material video outlining the sonification process and user int
 
 # REST API 
 
-A REST API was used to send data to and from the backend on the virtual machine.  All API code is also included in this project. 
+A REST API was used to send data to and from the backend Jython Music code on the virtual machine.  All API code is also included in this project. 
 
